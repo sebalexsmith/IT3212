@@ -209,3 +209,6 @@ __marimo__/
 # TF-IDF output files
 TFIDF_Features_unigrams.csv
 TFIDF_Features_bigrams.csv
+
+# CatBoost output files
+catboost_info/
